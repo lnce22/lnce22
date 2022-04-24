@@ -1,5 +1,5 @@
 <h2 align="center">Hello & Welcome.</h2>
-<h4 align="center">I'm Lautaro, I'm currently learning fullstack development, but I'm focus on the entire front-end spectrum (JavaScript and React). I have a great passion for IT and I keep myself in constant learning and improving my skills. I am currently doing a fullstack bootcamp while I am taking an advanced JavaScript course and doing projects on my own to learn in depth.</h4>
+<h4 align="center">I'm Nicolas, I'm currently learning fullstack development, but I'm focus on the entire front-end spectrum (JavaScript and React). I have a great passion for IT and I keep myself in constant learning and improving my skills. I am currently doing a fullstack bootcamp while I am taking an advanced JavaScript course and doing projects on my own to learn in depth.</h4>
  
 <h4 align="center">LANGUAGES & FRAMEWORKS:</h4>
 
